@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/banner.png" alt="Cybersecurity Banner">
+</p>
 # 👋 Hi, I'm Abdullahi Mohamed
 
 ## Cybersecurity Professional | SOC Analyst | Cloud Security Engineer
