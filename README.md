@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="./assets/cybersecurity-banner.png"
+  <img src="./cybersecurity-banner.png"
        alt="Cybersecurity and Cloud Security Engineer"
        width="100%" />
 </p>
