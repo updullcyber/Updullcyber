@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./assets/cybersecurity-banner.png"
        alt="Cybersecurity and Cloud Security Engineer"
